@@ -1,0 +1,13 @@
+var first_name = "Ranbir";
+var last_name = "Kapoor";
+var merge = first_name.concat(last_name);
+console.log(merge);
+var a = 10;
+var b = 5;
+var square_root = Math.sqrt(225);
+console.log(square_root);
+console.log(b);
+var root_square = Math.sqrt(2500);
+console.log(root_square);
+var square = Math.sqrt(4);
+console.log(square);
